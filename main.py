@@ -1,4 +1,4 @@
-print('Calculadora de Operações\n')
+print('*Calculadora de Operações*\n')
 
 while True:
 	#op = int(input('Qual operação gostaria de fazer?\n 1. Cálculo da distância entre dois pontos. \n 2. Ponto Médio. \n 3. Teorema de Pitágoras.\n 4. Perímetro da Circunferência. \n 5. Área da Circunferência.\n 6. Perímetro de um quadrilátero.\n 7. Área de um quadrilátero. \n 8. Coeficiente angular da reta. \n 9. Sair da Calculadora\n '))
